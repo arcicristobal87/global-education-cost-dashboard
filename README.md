@@ -19,4 +19,5 @@ The dataset includes universities from over 50 countries, highlighting not just 
 
 Feel free to clone, explore, and customize this dashboard. Perfect for students, researchers, and finance/data professionals.
 
-https://github.com/arcicristobal87/global-education-cost-dashboard/blob/main/Global%20Cost%20of%20Education.jpg
+![Dashboard Preview](https://github.com/arcicristobal87/global-education-cost-dashboard/blob/main/Global%20Cost%20of%20Education.jpg?raw=true)
+
